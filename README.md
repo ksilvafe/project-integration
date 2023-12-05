@@ -12,11 +12,9 @@ https://nodejs.org/en
 
 `npm run dev`
 
-### Login
+### Wireframes
 
 ![Alt text](<Tela Login.jpg>)
-
-### Notas
 
 ![Alt text](<Tela Digitação.jpg>)
 
